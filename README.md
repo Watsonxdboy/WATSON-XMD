@@ -76,7 +76,7 @@
 <a href="https://github.com/watsonxdboy/WATSON-XMD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
 
 
-<a hrerf= "https://bot-hosting.net/?aff=1231885228566646795"><img src="https://img.shields.io/badge/BOT-HOSTING%20%20DEPLOY-blue" alt="Scalingo Deploy" width="150"></a>
+<a hrerf= "https://bot-hosting.net/?aff=1304727553457782855"><img src="https://img.shields.io/badge/BOT-HOSTING%20%20DEPLOY-blue" alt="Scalingo Deploy" width="150"></a>
 
 <a href="https://account.solarhosting.cc/register?ref=Z5R4DoPp"><img src="https://img.shields.io/badge/SOLAR-HOSTING%20%20DEPLOY-pink" alt="Scalingo Deploy" width="150"></a>
 
